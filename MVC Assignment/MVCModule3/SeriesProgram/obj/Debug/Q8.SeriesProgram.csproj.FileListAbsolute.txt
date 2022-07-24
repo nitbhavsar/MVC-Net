@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\SeriesProgram\bin\Debug\SeriesProgram.exe.config
+C:\Users\nital\source\repos\MVCModule3\SeriesProgram\bin\Debug\SeriesProgram.exe
+C:\Users\nital\source\repos\MVCModule3\SeriesProgram\bin\Debug\SeriesProgram.pdb
+C:\Users\nital\source\repos\MVCModule3\SeriesProgram\obj\Debug\Q8.SeriesProgram.csproj.AssemblyReference.cache
+C:\Users\nital\source\repos\MVCModule3\SeriesProgram\obj\Debug\Q8.SeriesProgram.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\SeriesProgram\obj\Debug\SeriesProgram.exe
+C:\Users\nital\source\repos\MVCModule3\SeriesProgram\obj\Debug\SeriesProgram.pdb

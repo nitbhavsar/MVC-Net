@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\Q5.StringProgram\bin\Debug\Q5.StringProgram.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q5.StringProgram\bin\Debug\Q5.StringProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q5.StringProgram\bin\Debug\Q5.StringProgram.pdb
+C:\Users\nital\source\repos\MVCModule3\Q5.StringProgram\obj\Debug\Q5.StringProgram.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q5.StringProgram\obj\Debug\Q5.StringProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q5.StringProgram\obj\Debug\Q5.StringProgram.pdb
+C:\Users\nital\source\repos\MVCModule3\Q5.StringProgram\obj\Debug\Q5.StringProgram.csproj.AssemblyReference.cache

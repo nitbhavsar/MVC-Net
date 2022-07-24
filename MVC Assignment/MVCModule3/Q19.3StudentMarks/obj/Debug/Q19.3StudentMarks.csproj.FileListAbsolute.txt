@@ -1,0 +1,6 @@
+C:\Users\nital\source\repos\MVCModule3\Q19.3StudentMarks\bin\Debug\Q19.3StudentMarks.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q19.3StudentMarks\bin\Debug\Q19.3StudentMarks.exe
+C:\Users\nital\source\repos\MVCModule3\Q19.3StudentMarks\bin\Debug\Q19.3StudentMarks.pdb
+C:\Users\nital\source\repos\MVCModule3\Q19.3StudentMarks\obj\Debug\Q19.3StudentMarks.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q19.3StudentMarks\obj\Debug\Q19.3StudentMarks.exe
+C:\Users\nital\source\repos\MVCModule3\Q19.3StudentMarks\obj\Debug\Q19.3StudentMarks.pdb

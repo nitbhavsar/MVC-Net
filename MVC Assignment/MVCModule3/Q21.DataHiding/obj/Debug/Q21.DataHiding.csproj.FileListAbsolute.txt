@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\Q21.DataHiding\bin\Debug\Q21.DataHiding.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q21.DataHiding\bin\Debug\Q21.DataHiding.exe
+C:\Users\nital\source\repos\MVCModule3\Q21.DataHiding\bin\Debug\Q21.DataHiding.pdb
+C:\Users\nital\source\repos\MVCModule3\Q21.DataHiding\obj\Debug\Q21.DataHiding.csproj.AssemblyReference.cache
+C:\Users\nital\source\repos\MVCModule3\Q21.DataHiding\obj\Debug\Q21.DataHiding.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q21.DataHiding\obj\Debug\Q21.DataHiding.exe
+C:\Users\nital\source\repos\MVCModule3\Q21.DataHiding\obj\Debug\Q21.DataHiding.pdb

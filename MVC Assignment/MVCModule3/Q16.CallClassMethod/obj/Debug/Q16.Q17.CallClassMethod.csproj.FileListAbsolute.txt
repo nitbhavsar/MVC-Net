@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\Q16.CallClassMethod\bin\Debug\Q16.CallClassMethod.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q16.CallClassMethod\bin\Debug\Q16.CallClassMethod.exe
+C:\Users\nital\source\repos\MVCModule3\Q16.CallClassMethod\bin\Debug\Q16.CallClassMethod.pdb
+C:\Users\nital\source\repos\MVCModule3\Q16.CallClassMethod\obj\Debug\Q16.Q17.CallClassMethod.csproj.AssemblyReference.cache
+C:\Users\nital\source\repos\MVCModule3\Q16.CallClassMethod\obj\Debug\Q16.Q17.CallClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q16.CallClassMethod\obj\Debug\Q16.CallClassMethod.exe
+C:\Users\nital\source\repos\MVCModule3\Q16.CallClassMethod\obj\Debug\Q16.CallClassMethod.pdb

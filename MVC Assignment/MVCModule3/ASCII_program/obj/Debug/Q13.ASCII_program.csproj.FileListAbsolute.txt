@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\ASCII_program\bin\Debug\ASCII_program.exe.config
+C:\Users\nital\source\repos\MVCModule3\ASCII_program\bin\Debug\ASCII_program.exe
+C:\Users\nital\source\repos\MVCModule3\ASCII_program\bin\Debug\ASCII_program.pdb
+C:\Users\nital\source\repos\MVCModule3\ASCII_program\obj\Debug\Q13.ASCII_program.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\ASCII_program\obj\Debug\ASCII_program.exe
+C:\Users\nital\source\repos\MVCModule3\ASCII_program\obj\Debug\ASCII_program.pdb
+C:\Users\nital\source\repos\MVCModule3\ASCII_program\obj\Debug\Q13.ASCII_program.csproj.AssemblyReference.cache

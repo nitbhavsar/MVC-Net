@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\Q18.Inheritance\bin\Debug\Q18.Inheritance.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q18.Inheritance\bin\Debug\Q18.Inheritance.exe
+C:\Users\nital\source\repos\MVCModule3\Q18.Inheritance\bin\Debug\Q18.Inheritance.pdb
+C:\Users\nital\source\repos\MVCModule3\Q18.Inheritance\obj\Debug\Q18.Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q18.Inheritance\obj\Debug\Q18.Inheritance.exe
+C:\Users\nital\source\repos\MVCModule3\Q18.Inheritance\obj\Debug\Q18.Inheritance.pdb
+C:\Users\nital\source\repos\MVCModule3\Q18.Inheritance\obj\Debug\Q18.Inheritance.csproj.AssemblyReference.cache

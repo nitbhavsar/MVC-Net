@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\Q20.Factorial\bin\Debug\Q20.Factorial.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q20.Factorial\bin\Debug\Q20.Factorial.exe
+C:\Users\nital\source\repos\MVCModule3\Q20.Factorial\bin\Debug\Q20.Factorial.pdb
+C:\Users\nital\source\repos\MVCModule3\Q20.Factorial\obj\Debug\Q20.Factorial.csproj.AssemblyReference.cache
+C:\Users\nital\source\repos\MVCModule3\Q20.Factorial\obj\Debug\Q20.Factorial.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q20.Factorial\obj\Debug\Q20.Factorial.exe
+C:\Users\nital\source\repos\MVCModule3\Q20.Factorial\obj\Debug\Q20.Factorial.pdb

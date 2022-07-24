@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\MVCModule3\bin\Debug\MVCModule3.exe.config
+C:\Users\nital\source\repos\MVCModule3\MVCModule3\bin\Debug\MVCModule3.exe
+C:\Users\nital\source\repos\MVCModule3\MVCModule3\bin\Debug\MVCModule3.pdb
+C:\Users\nital\source\repos\MVCModule3\MVCModule3\obj\Debug\MVCModule3.csproj.AssemblyReference.cache
+C:\Users\nital\source\repos\MVCModule3\MVCModule3\obj\Debug\MVCModule3.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\MVCModule3\obj\Debug\MVCModule3.exe
+C:\Users\nital\source\repos\MVCModule3\MVCModule3\obj\Debug\MVCModule3.pdb

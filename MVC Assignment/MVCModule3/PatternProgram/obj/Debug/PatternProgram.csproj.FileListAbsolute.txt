@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\PatternProgram\bin\Debug\PatternProgram.exe.config
+C:\Users\nital\source\repos\MVCModule3\PatternProgram\bin\Debug\PatternProgram.exe
+C:\Users\nital\source\repos\MVCModule3\PatternProgram\bin\Debug\PatternProgram.pdb
+C:\Users\nital\source\repos\MVCModule3\PatternProgram\obj\Debug\PatternProgram.csproj.AssemblyReference.cache
+C:\Users\nital\source\repos\MVCModule3\PatternProgram\obj\Debug\PatternProgram.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\PatternProgram\obj\Debug\PatternProgram.exe
+C:\Users\nital\source\repos\MVCModule3\PatternProgram\obj\Debug\PatternProgram.pdb

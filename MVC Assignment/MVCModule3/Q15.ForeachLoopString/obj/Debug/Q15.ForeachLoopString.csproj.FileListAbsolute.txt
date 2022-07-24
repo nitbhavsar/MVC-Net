@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\Q15.ForeachLoopString\bin\Debug\Q15.ForeachLoopString.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q15.ForeachLoopString\bin\Debug\Q15.ForeachLoopString.exe
+C:\Users\nital\source\repos\MVCModule3\Q15.ForeachLoopString\bin\Debug\Q15.ForeachLoopString.pdb
+C:\Users\nital\source\repos\MVCModule3\Q15.ForeachLoopString\obj\Debug\Q15.ForeachLoopString.csproj.AssemblyReference.cache
+C:\Users\nital\source\repos\MVCModule3\Q15.ForeachLoopString\obj\Debug\Q15.ForeachLoopString.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q15.ForeachLoopString\obj\Debug\Q15.ForeachLoopString.exe
+C:\Users\nital\source\repos\MVCModule3\Q15.ForeachLoopString\obj\Debug\Q15.ForeachLoopString.pdb

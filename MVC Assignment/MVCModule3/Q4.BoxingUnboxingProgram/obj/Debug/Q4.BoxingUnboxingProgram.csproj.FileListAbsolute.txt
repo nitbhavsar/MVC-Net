@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\Q4.BoxingUnboxingProgram\bin\Debug\Q4.BoxingUnboxingProgram.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q4.BoxingUnboxingProgram\bin\Debug\Q4.BoxingUnboxingProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q4.BoxingUnboxingProgram\bin\Debug\Q4.BoxingUnboxingProgram.pdb
+C:\Users\nital\source\repos\MVCModule3\Q4.BoxingUnboxingProgram\obj\Debug\Q4.BoxingUnboxingProgram.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q4.BoxingUnboxingProgram\obj\Debug\Q4.BoxingUnboxingProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q4.BoxingUnboxingProgram\obj\Debug\Q4.BoxingUnboxingProgram.pdb
+C:\Users\nital\source\repos\MVCModule3\Q4.BoxingUnboxingProgram\obj\Debug\Q4.BoxingUnboxingProgram.csproj.AssemblyReference.cache
