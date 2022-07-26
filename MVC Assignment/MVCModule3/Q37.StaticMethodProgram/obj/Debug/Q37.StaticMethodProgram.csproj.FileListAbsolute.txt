@@ -1,0 +1,6 @@
+C:\Users\nital\source\repos\MVCModule3\Q37.StaticMethodProgram\obj\Debug\Q37.StaticMethodProgram.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q37.StaticMethodProgram\bin\Debug\Q37.StaticMethodProgram.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q37.StaticMethodProgram\bin\Debug\Q37.StaticMethodProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q37.StaticMethodProgram\bin\Debug\Q37.StaticMethodProgram.pdb
+C:\Users\nital\source\repos\MVCModule3\Q37.StaticMethodProgram\obj\Debug\Q37.StaticMethodProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q37.StaticMethodProgram\obj\Debug\Q37.StaticMethodProgram.pdb

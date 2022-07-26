@@ -1,0 +1,6 @@
+C:\Users\nital\source\repos\MVCModule3\Q35.MatricesProgram\bin\Debug\Q35.MatricesProgram.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q35.MatricesProgram\bin\Debug\Q35.MatricesProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q35.MatricesProgram\bin\Debug\Q35.MatricesProgram.pdb
+C:\Users\nital\source\repos\MVCModule3\Q35.MatricesProgram\obj\Debug\Q35.MatricesProgram.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q35.MatricesProgram\obj\Debug\Q35.MatricesProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q35.MatricesProgram\obj\Debug\Q35.MatricesProgram.pdb

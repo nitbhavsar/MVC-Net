@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\Q38.MultilevelInheritance\bin\Debug\Q38.MultilevelInheritance.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q38.MultilevelInheritance\bin\Debug\Q38.MultilevelInheritance.exe
+C:\Users\nital\source\repos\MVCModule3\Q38.MultilevelInheritance\bin\Debug\Q38.MultilevelInheritance.pdb
+C:\Users\nital\source\repos\MVCModule3\Q38.MultilevelInheritance\obj\Debug\Q38.MultilevelInheritance.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q38.MultilevelInheritance\obj\Debug\Q38.MultilevelInheritance.exe
+C:\Users\nital\source\repos\MVCModule3\Q38.MultilevelInheritance\obj\Debug\Q38.MultilevelInheritance.pdb
+C:\Users\nital\source\repos\MVCModule3\Q38.MultilevelInheritance\obj\Debug\Q38.MultilevelInheritance.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\nital\source\repos\MVCModule3\Q28.MinMaxProgram\bin\Debug\Q28.MinMaxProgram.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q28.MinMaxProgram\bin\Debug\Q28.MinMaxProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q28.MinMaxProgram\bin\Debug\Q28.MinMaxProgram.pdb
+C:\Users\nital\source\repos\MVCModule3\Q28.MinMaxProgram\obj\Debug\Q28.MinMaxProgram.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q28.MinMaxProgram\obj\Debug\Q28.MinMaxProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q28.MinMaxProgram\obj\Debug\Q28.MinMaxProgram.pdb

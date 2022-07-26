@@ -1,0 +1,7 @@
+C:\Users\nital\source\repos\MVCModule3\Q21.ReplaceString\bin\Debug\Q21.ReplaceString.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q21.ReplaceString\bin\Debug\Q21.ReplaceString.exe
+C:\Users\nital\source\repos\MVCModule3\Q21.ReplaceString\bin\Debug\Q21.ReplaceString.pdb
+C:\Users\nital\source\repos\MVCModule3\Q21.ReplaceString\obj\Debug\Q21.ReplaceString.csproj.AssemblyReference.cache
+C:\Users\nital\source\repos\MVCModule3\Q21.ReplaceString\obj\Debug\Q21.ReplaceString.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q21.ReplaceString\obj\Debug\Q21.ReplaceString.exe
+C:\Users\nital\source\repos\MVCModule3\Q21.ReplaceString\obj\Debug\Q21.ReplaceString.pdb

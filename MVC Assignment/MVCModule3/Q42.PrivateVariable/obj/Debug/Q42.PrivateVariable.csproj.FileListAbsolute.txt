@@ -1,0 +1,6 @@
+C:\Users\nital\source\repos\MVCModule3\Q42.PrivateVariable\bin\Debug\Q42.PrivateVariable.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q42.PrivateVariable\bin\Debug\Q42.PrivateVariable.exe
+C:\Users\nital\source\repos\MVCModule3\Q42.PrivateVariable\bin\Debug\Q42.PrivateVariable.pdb
+C:\Users\nital\source\repos\MVCModule3\Q42.PrivateVariable\obj\Debug\Q42.PrivateVariable.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q42.PrivateVariable\obj\Debug\Q42.PrivateVariable.exe
+C:\Users\nital\source\repos\MVCModule3\Q42.PrivateVariable\obj\Debug\Q42.PrivateVariable.pdb

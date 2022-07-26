@@ -1,0 +1,6 @@
+C:\Users\nital\source\repos\MVCModule3\Q50.SortArray\bin\Debug\Q50.SortArray.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q50.SortArray\bin\Debug\Q50.SortArray.exe
+C:\Users\nital\source\repos\MVCModule3\Q50.SortArray\bin\Debug\Q50.SortArray.pdb
+C:\Users\nital\source\repos\MVCModule3\Q50.SortArray\obj\Debug\Q50.SortArray.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q50.SortArray\obj\Debug\Q50.SortArray.exe
+C:\Users\nital\source\repos\MVCModule3\Q50.SortArray\obj\Debug\Q50.SortArray.pdb

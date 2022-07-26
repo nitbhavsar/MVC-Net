@@ -1,0 +1,6 @@
+C:\Users\nital\source\repos\MVCModule3\Q34.ArrayProgram\bin\Debug\Q34.ArrayProgram.exe.config
+C:\Users\nital\source\repos\MVCModule3\Q34.ArrayProgram\bin\Debug\Q34.ArrayProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q34.ArrayProgram\bin\Debug\Q34.ArrayProgram.pdb
+C:\Users\nital\source\repos\MVCModule3\Q34.ArrayProgram\obj\Debug\Q34.ArrayProgram.csproj.CoreCompileInputs.cache
+C:\Users\nital\source\repos\MVCModule3\Q34.ArrayProgram\obj\Debug\Q34.ArrayProgram.exe
+C:\Users\nital\source\repos\MVCModule3\Q34.ArrayProgram\obj\Debug\Q34.ArrayProgram.pdb
